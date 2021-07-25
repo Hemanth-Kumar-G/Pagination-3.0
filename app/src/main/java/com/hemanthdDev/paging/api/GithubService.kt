@@ -20,7 +20,6 @@ import com.hemanthdDev.paging.data.model.RepoSearchResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-const val IN_QUALIFIER = "in:name,description"
 
 /**
  * Github API communication setup via Retrofit.
